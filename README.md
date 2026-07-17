@@ -59,7 +59,6 @@ curl -X POST https://ctf-task-web.vercel.app/api/flag \
 ```
  
 </details>
----
  
 ## 🔗 Links
  
