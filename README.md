@@ -12,9 +12,7 @@
 This is an educational project created for **TillerCTF**, a Capture The Flag competition held in **April 2026**.
  
 You land on what looks like a completely ordinary page about cats. Two fluffy residents — Barsik and Milo — seem to be minding their own business. But not everything here is as simple as it appears.
- 
-The server is listening. The question is — do you know how to talk to it?
- 
+
 ---
  
 ## 🎯 Goal
