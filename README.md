@@ -63,6 +63,6 @@ curl -X POST https://ctf-task-web.vercel.app/api/flag \
  --- 
 
 ## 🔗 Links
-
+  
 - **Challenge site:** https://ctf-task-web.vercel.app/
 - **Hosting:** [Vercel](https://vercel.com)
