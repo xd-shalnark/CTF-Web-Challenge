@@ -25,6 +25,14 @@ def index():
     response.set_cookie("hint", "The key is --server-- and the value is --payload--")
     return response
 
+@app.errorhandler(404)
+def not_found(e):
+    return "Nothing here ", 404
+
+@app.errorhandler(500)
+def server_error(e):
+    return "Nothing here ", 500
+
 @app.route('/<path:filename>')
 def serve_static(filename):
     if filename.startswith("bildet/"):
