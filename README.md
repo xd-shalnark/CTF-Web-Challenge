@@ -1,4 +1,4 @@
-# 🐱 Web Challenge — Cats Page
+#  Web Challenge — Cats Page
  
 **CTF:** TillerCTF  
 **Category:** Web  
